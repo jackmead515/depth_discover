@@ -1,7 +1,0 @@
-{
-    "numDisparities": 64,
-    "blockSize": 21,
-    "WS": 5,
-    "uniquenessRatio": 1,
-    "distance": 7.0
-}
